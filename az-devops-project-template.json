@@ -926,7 +926,7 @@
                 "clientCertEnabled": false,
                 "clientCertMode": "Required",
                 "hostNamesDisabled": false,
-                "customDomainVerificationId": "B14A693A87C5A42E2803F0FDBE9F0D5B4F6D2A5F9E6BA2B54B7302854D672F88",
+                "customDomainVerificationId": "3A87C5A42E2803F0FDBE9F0D5B4F6D2A5F9E6BA2B54B",
                 "containerSize": 0,
                 "dailyMemoryTimeQuota": 0,
                 "httpsOnly": true,
